@@ -1,0 +1,6 @@
+{
+  "name": "Not Defteri",
+  "description": "Çevrim dışı çalışan, kategorilere ayrılabilen, modern ve şık tasarımlı profesyonel bir not alma uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
